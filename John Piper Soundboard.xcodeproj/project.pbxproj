@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		C2AC917025B351A800EE727E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AC916F25B351A800EE727E /* AppDelegate.swift */; };
 		C2AC917225B351A800EE727E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AC917125B351A800EE727E /* SceneDelegate.swift */; };
-		C2AC917425B351A800EE727E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AC917325B351A800EE727E /* ViewController.swift */; };
+		C2AC917425B351A800EE727E /* PiperViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2AC917325B351A800EE727E /* PiperViewController.swift */; };
 		C2AC917725B351A800EE727E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2AC917525B351A800EE727E /* Main.storyboard */; };
 		C2AC917925B351AC00EE727E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2AC917825B351AC00EE727E /* Assets.xcassets */; };
 		C2AC917C25B351AC00EE727E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2AC917A25B351AC00EE727E /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		C2AC916C25B351A800EE727E /* John Piper Soundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "John Piper Soundboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2AC916F25B351A800EE727E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2AC917125B351A800EE727E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C2AC917325B351A800EE727E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C2AC917325B351A800EE727E /* PiperViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiperViewController.swift; sourceTree = "<group>"; };
 		C2AC917625B351A800EE727E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C2AC917825B351AC00EE727E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2AC917B25B351AC00EE727E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				C2AC916F25B351A800EE727E /* AppDelegate.swift */,
 				C2AC917125B351A800EE727E /* SceneDelegate.swift */,
-				C2AC917325B351A800EE727E /* ViewController.swift */,
+				C2AC917325B351A800EE727E /* PiperViewController.swift */,
 				C2AC917525B351A800EE727E /* Main.storyboard */,
 				C2AC917825B351AC00EE727E /* Assets.xcassets */,
 				C2AC917A25B351AC00EE727E /* LaunchScreen.storyboard */,
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2AC917425B351A800EE727E /* ViewController.swift in Sources */,
+				C2AC917425B351A800EE727E /* PiperViewController.swift in Sources */,
 				C2AC917025B351A800EE727E /* AppDelegate.swift in Sources */,
 				C2AC917225B351A800EE727E /* SceneDelegate.swift in Sources */,
 			);

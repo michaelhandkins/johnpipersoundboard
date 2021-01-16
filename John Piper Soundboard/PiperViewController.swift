@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PiperViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
